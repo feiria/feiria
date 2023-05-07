@@ -48,6 +48,90 @@
 - 2021 江西开放数据创新应用大赛 优秀奖 (队长)
 - 2022 中国高校计算机大赛-大数据挑战赛 全国三等奖 (队长)
 
+
+## 🖥️ My Open-Source Projects
+<table class="table table-striped table-bordered table-vcenter">
+    <tbody>
+        <tr> <th> Title </th> <th>Description</th> <th>Stars</th> <th>Progressing</th> </tr>
+        <!-- go-template -->
+        <tr>
+            <td align="center" class="ai-notebooks-table-points ai-orange-link">
+                <a href="https://github.com/feiria/go-tempalte" target="_blank">go-template</a>
+            </td>
+            <td>
+                <sub>golang web项目的快速开发模板，仅供学习参考</sub> 
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/feiria/go-template?style=flat-square&labelColor=black"/>
+            </td>
+            <td>
+                <img alt="Progressing" src="https://img.shields.io/badge/progress-10%25-green&logo=github"/>
+            </td>
+        </tr>
+        <!-- GoLangTricks -->
+        <tr>
+            <td  align="center" class="ai-notebooks-table-points ai-orange-link">
+                <a href="https://github.com/feiria/GoLangTricks" target="_blank">GoLangTricks</a>
+            </td>
+            <td>
+                <sub>golang 中的实用小技巧</sub> 
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/feiria/GoLangTricks?style=flat-square&labelColor=black"/>
+            </td>
+            <td>
+                <img alt="Progressing" src="https://img.shields.io/badge/progress-20%25-green&logo=github"/>
+            </td>
+        </tr>
+        <!-- machine-learning -->
+        <tr>
+            <td  align="center" class="ai-notebooks-table-points ai-orange-link">
+                <a href="https://github.com/feiria/machine_learning" target="_blank">machine-learning</a>
+            </td>
+            <td>
+                <sub>scikit-learn简单使用示例, 便于初学者快速上手</sub> 
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/feiria/machine_learning?style=flat-square&labelColor=black"/>
+            </td>
+            <td>
+                <img alt="Progressing" src="https://img.shields.io/badge/progress-100%25-green&logo=github"/>
+            </td>
+        </tr>
+        <!-- tide-plus -->
+        <tr>
+            <td  align="center" class="ai-notebooks-table-points ai-orange-link">
+                <a href="https://github.com/feiria/tide" target="_blank">tide</a>
+            </td>
+            <td>
+                <sub>TIDE的个人魔改版，添加了矢量图导出等自定义功能</sub> 
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/feiria/tide?style=flat-square&labelColor=black"/>
+            </td>
+            <td>
+                <img alt="Progressing" src="https://img.shields.io/badge/progress-100%25-green&logo=github"/>
+            </td>
+        </tr>
+        <!-- arsenal -->
+        <tr>
+            <td  align="center" class="ai-notebooks-table-points ai-orange-link">
+                <a href="https://github.com/feiria/arsenal" target="_blank">arsenal</a>
+            </td>
+            <td>
+                <sub>比赛武器库，包含EMA、FDM等深度学习通用Tricks和用于处理CSV数据的特征工程代码</sub> 
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/feiria/arsenal?style=flat-square&labelColor=black"/>
+            </td>
+            <td>
+                <img alt="Progressing" src="https://img.shields.io/badge/progress-0%25-green&logo=github"/>
+            </td>
+        </tr>
+        
+</tbody>
+</table>
+
 <br>
 
 <p align="center">
