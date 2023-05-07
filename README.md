@@ -1,10 +1,9 @@
-<h1 style="text-align: center">God dag 👋,  I'm feiria </h1>
+<h1 align="center">God dag 👋,  I'm feiria </h1>
+
 
 ✨ 不想当公务员的学生不是好码农
 <br>
-<div style="position: relative">
-    <img style="width: 343px; height: 200px; position: absolute; right: 0" alt="GIF" src="assets/code.gif" title="do it best!">
-</div>
+<img align="right" width="343" height="220" alt="GIF" src="assets/code.gif" title="do it best!">
 
 <h3>Languages and Frameworks</h3>
 
@@ -73,7 +72,7 @@
 
 <br>
 
-<p style="text-align: center">
+<p align="center">
   <a href="https://github.com/feiria" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=feiria" alt="feiria's Stats" >
   </a>
