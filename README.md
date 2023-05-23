@@ -46,6 +46,7 @@
 - 2020 微信小程序应用开发赛 全国三等奖 (队员)
 - 2021 江西开放数据创新应用大赛 优秀奖 (队长)
 - 2022 中国高校计算机大赛-大数据挑战赛 全国三等奖 (队长)
+- 2023 IJCAI Workshop Challenge Track 1: Horizontal Detection (23th in set1) (队长)
 
 [PyTorch]:https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch
 [Pandas]:https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas
